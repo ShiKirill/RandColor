@@ -1,0 +1,12 @@
+.wrapper{
+ width: 30%;
+ margin: 0 auto;
+ text-align: center;
+}
+
+#change {
+ width: 30%;
+ height: 2.5rem;
+ font-weight: 700;
+ cursor: pointer;
+}
